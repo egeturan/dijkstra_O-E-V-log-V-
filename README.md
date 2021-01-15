@@ -1,1 +1,1 @@
-# dijkstra_O-E-V-log-V-
+# dijkstra_shortest_path_on_direct_graph
